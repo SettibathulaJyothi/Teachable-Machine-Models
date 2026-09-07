@@ -1,6 +1,6 @@
 # Image Classification with Google Teachable Machine
 
-A web-based **Machine Learning project** that classifies images in real-time using a custom-trained model built with [Google Teachable Machine](https://teachablemachine.withgoogle.com/). 
+A web-based **Machine Learning project** that classifies images in real-time using a custom-trained model built with [Google Teachable Machine](https://teachablemachine.withgoogle.com/).   
 This application uses the webcam or file uploads to run live inference directly in the browser via [TensorFlow.js](https://github.com/googlecreativelab/teachablemachine-community/blob/master/README.md).
 
 ##  Features
